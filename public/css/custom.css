@@ -1,0 +1,30 @@
+.infofont {
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.b-prev-articles__list-item__title-outer {
+    margin: 0;
+    margin-bottom: 2px;
+    overflow: hidden;
+    line-height: 1.25;
+}
+
+.b-prev-articles__list-item__description {
+    font-size: 14px;
+    overflow: hidden;
+}
+
+
+.b-prev-articles__list-item__image-outer {
+    position: relative;
+    display: block;
+    float: left;
+    margin-right: 10px;
+    border: 1px solid #d7d8d9;
+}
+
+.b-prev-articles__list-item {
+    padding: 0;
+    background: none;
+    position: relative;
+}
